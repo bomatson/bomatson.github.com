@@ -49,6 +49,9 @@ Audio Libraries
 1. Ruby Audio
 1. Easy Audio (port audio wrapper)
 1. easy_vst (use Ruby to generate sound waves that are ported to Ableton)
+
+Sample using the VST synth:
+
 {% highlight ruby %}
   # plays a bass drum
   $.music.fn = -> { e(SINE) * e(EXP_FALLOFF)}
