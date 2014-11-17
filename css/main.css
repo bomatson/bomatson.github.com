@@ -1,4 +1,4 @@
-/* 
+/*
 Title: Hikari
 Description: : A responsive & simple theme for Jekyll
 Version: 1.0
@@ -125,9 +125,9 @@ header .h-wrap .menu-icon .lines::after {
   content: '';
   transform-origin:         50% 50%;
   -webkit-transform-origin: 50% 50%;
-  transition:         top .3s .6s ease, 
+  transition:         top .3s .6s ease,
                       transform .3s ease;
-  -webkit-transition: top .3s .6s ease, 
+  -webkit-transition: top .3s .6s ease,
                       transform .3s ease;
 }
 
@@ -157,10 +157,10 @@ header .h-wrap .close .lines::before,
 header .h-wrap .close .lines::after {
   top:0;
   width: 30px;
-  -webkit-transition: top .3s ease, 
-                      transform .3s .5s ease;   
-  transition:         top .3s ease, 
-                      transform .3s .5s ease;     
+  -webkit-transition: top .3s ease,
+                      transform .3s .5s ease;
+  transition:         top .3s ease,
+                      transform .3s .5s ease;
 }
 
 header .h-wrap .close .lines::before {
@@ -184,13 +184,13 @@ header .h-wrap .close .lines::after {
   padding: 0px 40px;
   background: #fafafa;
   border-bottom: 0px solid #f1f1f1;
-  -webkit-transition: max-height .35s ease, 
-                      padding-top .35s ease, 
-                      padding-bottom .35s ease, 
+  -webkit-transition: max-height .35s ease,
+                      padding-top .35s ease,
+                      padding-bottom .35s ease,
                       border-width .35s ease;
-  transition:         max-height .35s ease, 
-                      padding-top .35s ease, 
-                      padding-bottom .35s ease, 
+  transition:         max-height .35s ease,
+                      padding-top .35s ease,
+                      padding-bottom .35s ease,
                       border-width .35s ease;
 }
 
@@ -198,13 +198,13 @@ header .h-wrap .close .lines::after {
   max-height: 90%;
   padding: 40px;
   border-width: 1px;
-  -webkit-transition: max-height .35s ease, 
-                      padding-top .35s ease, 
-                      padding-bottom .35s ease, 
+  -webkit-transition: max-height .35s ease,
+                      padding-top .35s ease,
+                      padding-bottom .35s ease,
                       border-width .35s ease;
-  transition:         max-height .35s ease, 
-                      padding-top .35s ease, 
-                      padding-bottom .35s ease, 
+  transition:         max-height .35s ease,
+                      padding-top .35s ease,
+                      padding-bottom .35s ease,
                       border-width .35s ease;
 }
 
@@ -386,8 +386,8 @@ section#single-wrap h2,
 section#single-wrap h3,
 section#single-wrap h4,
 section#single-wrap h5,
-section#single-wrap h6 { 
-  padding: 0 40px; 
+section#single-wrap h6 {
+  padding: 0 40px;
   margin-top: 40px;
 }
 
@@ -437,7 +437,7 @@ section#single-wrap img {
 #prev { left: 40px; }
 #next { right: 40px; }
 
-#prev:active, 
+#prev:active,
 #next:active {
   border-color: #39f;
 }
@@ -495,7 +495,7 @@ section#single-wrap img {
   content: "JavaScript";
 }
 
-.highlight code.html::before, 
+.highlight code.html::before,
 .highlight code.css::before,
 .highlight code.js::before {
   position: absolute;
@@ -504,7 +504,7 @@ section#single-wrap img {
   font-family: 'Open Sans', sans-serif;
   background-color: #fbfbfb;
   border: 1px solid #eee;
-  padding: 4px 10px; 
+  padding: 4px 10px;
   border-radius: 3px 3px 0 0;
 }
 
@@ -538,10 +538,10 @@ section#single-wrap img {
   ul.posts li .p-wrap:hover { padding-left: 40px; }
   ul.posts li .p-wrap:hover::after { content: none; margin: 0; }
   .highlight { margin: 30px 40px 40px; }
-  .highlight code.html::before, 
+  .highlight code.html::before,
   .highlight code.css::before,
   .highlight code.js::before {
-    display: none; 
+    display: none;
   }
 
 }
@@ -573,8 +573,8 @@ section#single-wrap img {
   section#single-wrap h3,
   section#single-wrap h4,
   section#single-wrap h5,
-  section#single-wrap h6 { 
-    padding: 0 20px; 
+  section#single-wrap h6 {
+    padding: 0 20px;
     margin-top: 30px;
   }
 
