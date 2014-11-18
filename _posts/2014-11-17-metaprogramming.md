@@ -3,7 +3,7 @@ layout: post
 title:  "Metaprogramming"
 ---
 
-Most useful definition: code that thinks of a program as something you can change
+> code that thinks of program structure as just another thing to manipulate
 
 Object#send
 -------------
