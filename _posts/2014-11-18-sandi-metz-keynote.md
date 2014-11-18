@@ -27,9 +27,9 @@ The linotype machine was replaced by computers in the 1960's
 My Future
 ========
 
-* Everything will change. You will die
-* Your body will deteriorate
-* Our jobs appeared as quickly as the linotype operators
+* Everything will change. I will die
+* My body will deteriorate
+* Our jobs appeared as quickly as the linotype operators, and will disappear just as quickly
 
 > Being on the happy path of the app of your life
 
