@@ -6,9 +6,8 @@ author: "Bobby Matson"
 url: "http://bomatson.com"
 baseurl: ""
 
-markdown: rdiscount
 permalink: :year/:month/:title.html
-pygments: true
+highlighter: pygments
 
 # Google Analytics
 # ga_domain: m3xm.github.io
