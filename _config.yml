@@ -7,7 +7,7 @@ url: "http://blog.bomatson.com"
 baseurl: ""
 
 permalink: :year/:month/:title.html
-highlighter: pygments
+highlighter: rouge
 
 # Google Analytics
 # ga_domain: m3xm.github.io
