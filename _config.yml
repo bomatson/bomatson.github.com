@@ -3,7 +3,7 @@ description: "Instrumental Tech"
 
 author: "Bobby Matson"
 
-url: "http://bomatson.com"
+url: "http://blog.bomatson.com"
 baseurl: ""
 
 permalink: :year/:month/:title.html
