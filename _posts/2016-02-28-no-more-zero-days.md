@@ -11,6 +11,8 @@ Recently, I stumbled upon this
 [Reddit comment](https://www.reddit.com/r/getdisciplined/comments/1q96b5/i_just_dont_care_about_myself/cdah4af)
 outlining a set of rules to having a "Non Zero Day". 
 
+<img style='max-width: 25rem;' alt='No More Zero Days' src='/assets/img/zero_day.png'/>
+
 The basic idea: Once a day, I will achieve at least one thing that gets me one step closer to my long term goal.
 In my case, a "step" could be setting up Google Ads to test the viability of a business idea, or fixing a bug for a product I'm building. 
 
