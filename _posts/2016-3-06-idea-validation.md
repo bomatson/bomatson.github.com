@@ -3,7 +3,7 @@ layout: post
 title:  "Idea Validation"
 ---
 
-This week, I decided to stop having zero days. If you aren't sure what that means, [check out this post](/2016/02/no-more-zero-days.html).
+Last week, I decided to stop having zero days. If you aren't sure what that means, [check out this post](/2016/02/no-more-zero-days.html).
 
 Result? Success! I spent ~20 minutes a day this week building out the homepage for [Nutshell](https://www.nutshll.co/). It used to look like this:
 
@@ -21,11 +21,11 @@ And even on mobile...
 
 I also spent some time redefining what a "non zero day" is. My current definition:
 
-- a day where you create 5 stories in Pivotal Tracker and prioritize them
-- a day where you finish a story
+1. a day where I create 5 stories and prioritize them
+1. a day where I finish and deliver a story
 
 
-In truth, I haven't actually done that much. It's just a landing page with a selling point. I need to validate so many things about whether there's really a customer segment, how much they are willing to pay, and whether they've got the money to pay it. Customer discovery is an often overlooked, but crucial aspect of initial value creation.
+In truth, I haven't actually done that much. It's just a landing page with a selling point. I need to validate whether there's really a customer segment, how much they are willing to pay, and whether they've got the money to pay it.
 
 This week, I'm focusing my stories on idea validation. This stage involves setting up several online ads to determine which market is most interested this offering. In this case, it's finding out where having a "summarized contract" provides the most immediate value. From there, I'll have enough information to start A/B testing value propositions. Then, it's all about the best way to deliver on that value.
 
