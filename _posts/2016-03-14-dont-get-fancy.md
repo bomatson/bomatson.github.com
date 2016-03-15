@@ -3,7 +3,7 @@ layout: post
 title:  "Don't Get Fancy"
 ---
 
-This week, I took big strides improving [Nutshell](https://www.nutshll.co/), an app that turns contracts into bullet points. Unfortunately, my [Business Design Backlog](https://www.pivotaltracker.com/n/projects/1545081) got taken up by details that didn't really matter all that much to the end user, preventing me from running ads like [I had planned](/2016/03/idea-validation.html)
+This week, I took "big strides" improving [Nutshell](https://www.nutshll.co/), an app that turns contracts into bullet points. In reality, my [Business Design Backlog](https://www.pivotaltracker.com/n/projects/1545081) got taken up by details that didn't really matter all that much to the end user, preventing me from running ads like [I had planned](/2016/03/idea-validation.html)
 
 As I continue to validate this idea, I'm noticing latent entrepreneurial weaknesses in myself. I am trying so hard to make everything perfect, even though it obviously never will be. This leads to a beautifully written thing no one wants.
 
