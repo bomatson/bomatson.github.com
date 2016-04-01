@@ -5,7 +5,7 @@ title:  Four Zero Days
 
 Unfortunately, I failed to keep up my progress having [no more zero days](/2016/02/no-more-zero-days.html).
 
-I was ~23 days strong but let other obligations get in the way. Four straight zero days :/
+I was ~26 days strong but let other obligations get in the way. Four straight zero days :/
 
 It's not a total loss! The point of NZD is to [teach yourself forgiveness](https://www.reddit.com/r/NonZeroDay/wiki/the_four_pillars). Consider this my first lesson.
 
