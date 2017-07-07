@@ -26,9 +26,6 @@ quite draining if you're not used to [moonlighting](https://en.wikipedia.org/wik
 
 ![](https://s3.amazonaws.com/lowres.cartoonstock.com/office-work_life_balance-workaholic-overtime-delegation-talk-forn2220_low.jpg)
 
-In order for any project to be successful, you need the right
-balance of creative thinking and execution in order to really be effective.
-
 Historically, I've been pretty bad at personal side projects. I have ideas - some good,
 most bad - that I work on solo for three weeks and then lose interest on. I have
 countless examples of projects that have been [partially worked on](https://github.com/bomatson/contract_reader_web) and [shelved](https://github.com/bomatson/lunchy).
@@ -52,4 +49,4 @@ it'll be 100x better, with 100% new mistakes and wins.
 
 ![Prototype](http://i.imgur.com/xHil1k9.png "Prototype")
 
-If you're interested in hearing more about this, [hmu](<bobby.matson@gmail.com>).
+If you're interested in hearing more about this, [hmu](mailto:<bobby.matson@gmail.com>).
