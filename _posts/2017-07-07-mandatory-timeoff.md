@@ -3,7 +3,7 @@ layout: post
 title:  Mandatory Timeoff
 ---
 
-This week is the first week of Mandatory Timeoff.  It's technically a two month
+This is the first week of Mandatory Timeoff.  It's technically a two month
 sabbatical, but with a different flavor. I plan to give myself time to reflect
 and reset, but with the added bonus of "working for myself" throughout the
 process.
