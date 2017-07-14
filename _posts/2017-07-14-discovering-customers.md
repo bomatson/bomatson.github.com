@@ -87,3 +87,5 @@ Whatever you do, don't use statistics for this (at least not yet). Keep collecti
 What happens next? Well, I'll let you know when I do it next week :)
 
 Throw in your email if you're interested in getting notified about future posts!
+
+{% include subscription-form.html %}
