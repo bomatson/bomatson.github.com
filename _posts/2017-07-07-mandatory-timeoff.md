@@ -1,6 +1,10 @@
 ---
 layout: post
 title:  Mandatory Timeoff
+tags:
+  - business models
+  - startup life
+  - lifestyle
 ---
 
 This is the first week of Mandatory Timeoff.  It's technically a two month
