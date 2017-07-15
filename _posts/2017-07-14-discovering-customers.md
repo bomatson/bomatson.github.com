@@ -32,19 +32,20 @@ These are the current assumptions for [Payoff](https://github.com/bomatson/payof
 
 ## Find the Others
 
-This is important. You have a pain point, but who else has it? Talk to your friends, family and coworkers. If it's outside your network, find a subreddit related to the problem.
+This is important. You have a pain point, but who else has it? Talk to your
+friends, family and coworkers. If it's outside your network, find a [subreddit](https://www.reddit.com/r/personalfinance/) related to the problem.
 
 **Sidenote:** If you can't find a channel, it's likely your shitty situation is too far removed from your domain. "Pet Insurance is so hard" when you don't own a pet is going to put you at a disadvantage, so I recommend a reset.
 
 A good place to find potential customers is where existing alternatives exist. In my case, people often seek financial advice from family and close friends, so I started there.
-I had friends already exploring ways to payoff debt faster, so I asked for a bit more of their time.
+I had friends already exploring ways to pay off debt faster, so I asked for a bit more of their time.
 
 ## Talk to these Others
 
 This falls under the "get out of the building" concept coined by [Steve Blank](https://steveblank.com/2010/03/11/teaching-entrepreneurship-%E2%80%93-by-getting-out-of-the-building/).
 These Others might be your customers. Ask them for a favor and interview them, either in person or via a phone call.
 
-It might feel strange, but don't be shy. At this point, you really don't have anything to lose. I found that many people were very receptive to being interviewed, but make sure you respect their time!
+It might feel strange, but don't be shy. At this point, you have nothing to lose. I found that many people were very receptive to being interviewed, but make sure you respect their time!
 
 ![Talk to Others](https://s3.amazonaws.com/lowres.cartoonstock.com/business-commerce-busy-workloads-hand_free-help-ask_for_help-mfln144_low.jpg)
 
