@@ -1,6 +1,7 @@
 ---
 title: Discovering Customers
 layout: post
+image: https://s3.amazonaws.com/lowres.cartoonstock.com/science-plane-airplane-aeroplane-jet-recon-gra050715_low.jpg
 tags:
   - product development
   - business models

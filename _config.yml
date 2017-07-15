@@ -5,6 +5,7 @@ author: "Bobby Matson"
 
 url: "http://blog.bomatson.com"
 baseurl: ""
+image: "/assets/img/avatar.jpg"
 
 permalink: :year/:month/:title.html
 highlighter: rouge
