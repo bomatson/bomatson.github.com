@@ -7,7 +7,7 @@ tags:
   - business models
 ---
 
-[Last week,](2017/07/mandatory-timeoff.html) I wrote about taking some mandatory timeoff to dive deep on a side project. Since then, I've been taking time to discover customers.
+[Last week,](/2017/07/mandatory-timeoff.html) I wrote about taking some mandatory timeoff to dive deep on a side project. Since then, I've been taking time to discover customers.
 
 There's no bulletproof way to find a customer. Sure, there's plenty of "best practices" and [whatnot](https://www.entrepreneur.com/article/219582), but no sure way to get there.
 
